@@ -1,0 +1,2 @@
+a = input("Enter your name: ")
+print("Hello ", a, "!","Wishing you a great future ahead:) ")
